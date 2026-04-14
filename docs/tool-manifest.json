@@ -1,0 +1,42 @@
+{
+  "generated_at": "2026-04-14T04:41:50.374962",
+  "date": "2026-04-14",
+  "tool_count": 7,
+  "tools": [
+    {
+      "name": "search_catalog_tool",
+      "source": "backstage",
+      "description": "Search catalog by name, kind, owner"
+    },
+    {
+      "name": "get_entity_tool",
+      "source": "backstage",
+      "description": "Get full entity details"
+    },
+    {
+      "name": "get_techdocs_tool",
+      "source": "backstage_techdocs",
+      "description": "Fetch TechDocs content"
+    },
+    {
+      "name": "get_ownership_tool",
+      "source": "backstage",
+      "description": "Look up service ownership"
+    },
+    {
+      "name": "get_dependencies_tool",
+      "source": "backstage",
+      "description": "Get dependency graph"
+    },
+    {
+      "name": "list_templates_tool",
+      "source": "backstage",
+      "description": "List scaffolding templates"
+    },
+    {
+      "name": "scaffold_service_tool",
+      "source": "backstage_scaffolder",
+      "description": "Create service from template"
+    }
+  ]
+}
