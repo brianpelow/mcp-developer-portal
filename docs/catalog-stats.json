@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-06-26T06:04:37.637644",
-  "date": "2026-06-26",
+  "generated_at": "2026-06-27T05:48:37.749351",
+  "date": "2026-06-27",
   "mock_entity_count": 5,
   "mock_template_count": 3,
   "entity_kinds": [
-    "Component",
     "API",
-    "System"
+    "System",
+    "Component"
   ],
   "template_names": [
     "python-microservice",
