@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-26T05:25:35.994988",
-  "date": "2026-07-26",
+  "generated_at": "2026-07-27T05:42:48.285653",
+  "date": "2026-07-27",
   "mock_entity_count": 5,
   "mock_template_count": 3,
   "entity_kinds": [
-    "API",
     "System",
+    "API",
     "Component"
   ],
   "template_names": [
